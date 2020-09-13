@@ -27,7 +27,7 @@ Neste desafio eu apliquei um pouco dos conhecimentos de NodeJS que obtive no Boo
 - Para iniciar a API você deve realizar o seguinte comando:
 
 ```shell
-    yarn dev / npm run dev
+    yarn dev:server / npm run dev:server
 ```
 
 - Para realizar testes na API:
